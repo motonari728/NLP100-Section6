@@ -1,0 +1,5 @@
+{
+    "python.linting.enabled": false,
+    "python.pythonPath": "C:\\Users\\motonari\\Anaconda3\\envs\\tensorflow\\python.exe",
+    "editor.codeLens": true
+}
